@@ -1,6 +1,7 @@
 let heroi = {
     nome: "Douglas",
-    xp: 8000
+    xp: 8000,
+    
 }
 let mensagemHeroi = "Você é cavaleiro nivel "
 
